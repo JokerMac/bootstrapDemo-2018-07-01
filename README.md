@@ -1,6 +1,10 @@
 # bootstrapDemo-2018-07-01
 bootstrapDemo-2018-07-01
 
+在线文档：
+https://v3.bootcss.com/getting-started/#download
+https://v3.bootcss.com/components/#navbar-component-alignment
+
 使用bootstrap的初始化模板：
 <!DOCTYPE html>
 <html lang="zh-CN">
